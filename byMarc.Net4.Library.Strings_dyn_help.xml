@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DynamicHelp xmlns="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:schemaLocation="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd">	
+   <LINKGROUP ID="byMarc.Net4.Library.Strings" Title="byMarc.Net4.Library.Strings Reference Help" Priority="2100">
+      <GLYPH Expanded="vs:/ctxhelp_show.gif" Collapsed="vs:/ctxhelp_hide.gif"/>
+   </LINKGROUP>
+
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net4.Library.Strings.DelimitIf" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net4.Library.Strings.chm::/topic_0000000000000005.html" LinkGroup="byMarc.Net4.Library.Strings">DelimitIf Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net4.Library.Strings.EncapsulateIf" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net4.Library.Strings.chm::/topic_0000000000000002.html" LinkGroup="byMarc.Net4.Library.Strings">EncapsulateIf Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net4.Library.Strings.JoinList" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net4.Library.Strings.chm::/topic_0000000000000006.html" LinkGroup="byMarc.Net4.Library.Strings">JoinList Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net4.Library.Strings.PrefixIf" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net4.Library.Strings.chm::/topic_0000000000000003.html" LinkGroup="byMarc.Net4.Library.Strings">PrefixIf Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net4.Library.Strings" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net4.Library.Strings.chm::/topic_0000000000000001.html" LinkGroup="byMarc.Net4.Library.Strings">Strings Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net4.Library.Strings.SuffixIf" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net4.Library.Strings.chm::/topic_0000000000000004.html" LinkGroup="byMarc.Net4.Library.Strings">SuffixIf Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net4.Library" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net4.Library.Strings.chm::/topic_0000000000000000.html" LinkGroup="byMarc.Net4.Library.Strings">byMarc.Net4.Library Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net4.Library.Strings Reference" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net4.Library.Strings.chm::/topic_0000000000000007.html" LinkGroup="byMarc.Net4.Library.Strings">byMarc.Net4.Library.Strings Reference</LItem>
+      </Links>
+   </Context>
+   
+
+</DynamicHelp>
+
